@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Les Montagnes"
+title = "Thomas Hériché"
 [[menu.main]]
 URL = "A propos"
 name = "About"
