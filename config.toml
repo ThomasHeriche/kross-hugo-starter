@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "Les Montagnes"
 [[menu.main]]
 URL = "A propos"
 name = "About"
